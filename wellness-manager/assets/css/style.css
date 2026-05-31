@@ -1,0 +1,82 @@
+/* VBOX & HBOX STYLE */
+HBox {
+    -fx-alignment: center;
+}
+
+.rootVBox,
+.menu_btn {
+    -fx-background-color: whitesmoke;
+}
+
+#menu_bar {
+    -fx-background-color: #003865;
+}
+
+#calories_vbox,
+.dlog_vbox_hbox {
+    -fx-padding: 17.5px;
+}
+
+#calories_vbox {
+    -fx-alignment: bottom-right;
+}
+
+.dlog_vbox_hbox {
+    -fx-alignment: center;
+    -fx-background-color: #003865;
+}
+
+#chart_vbox {
+    -fx-alignment: center;
+}
+
+/* TAB PANE STYLE */
+.collection_tab {
+    -fx-padding: 0px 25px;
+    -fx-font-size: 12pt;
+    -fx-focus-color: -fx-background-color;
+}
+
+/* PIE CHART STYLE */
+.chart-pie-label,
+.chart-legend-item {
+    -fx-padding: 0px 10px;
+    -fx-font-size: 12pt;
+    -fx-text-fill: #003865;
+}
+
+.chart-pie-label-line {
+    -fx-stroke: #003865;
+}
+
+.data0.chart-pie {
+    -fx-pie-color: darkred;
+}
+
+.data1.chart-pie {
+    -fx-pie-color: darkgreen;
+}
+
+.data2.chart-pie {
+    -fx-pie-color: #003865;
+}
+
+.chart-legend {
+    -fx-padding: 15px;
+    -fx-background-color: white;
+}
+
+/* RECIPE LOG STYLE */
+.scroll_pane {
+    -fx-padding: 15px;
+    -fx-background-color: #003865;
+}
+
+#check_vbox,
+#exercise_vbox {
+    -fx-padding: 25px;
+}
+
+.check_box {
+    -fx-text-fill: #003865;
+}

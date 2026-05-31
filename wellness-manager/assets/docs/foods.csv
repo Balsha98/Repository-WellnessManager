@@ -1,0 +1,16 @@
+b,cheese,125.0,51.0,24.0,67.0
+b,sausage,200.0,43.0,23.0,15.0
+b,eggs,400.0,45.0,60.0,100.0
+b,bacon,500.0,200.0,100.0,50.0
+b,hashbrowns,800.0,100.0,67.0,32.0
+r,classic americano,cheese,2.0,sausage,5.0,eggs,3.0,bacon,3.0,hashbrowns,3.0
+b,rice,500.0,50.0,150.0,75.0
+r,big boy breakfast,cheese,4.0,sausage,7.0,rice,5.0
+r,english breakfast,cheese,3.0,sausage,4.0,eggs,5.0
+r,killer breakfast,cheese,2.0,eggs,3.0,bacon,1.0,hashbrowns,4.0
+r,monster breakfast,big boy breakfast,1.0,english breakfast,2.0,killer breakfast,3.0
+r,huge breakfast,big boy breakfast,1.0,english breakfast,2.0,killer breakfast,3.0,monster breakfast,4.0
+r,recipe,cheese,2.0,eggs,2.0,hashbrowns,1.0
+b,itemNew,1.0,1.0,1.0,1.0
+r,recNew,monster breakfast,12.0,huge breakfast,2.0,recipe,2.0,itemNew,3.0
+r,adasdas,english breakfast,2.0,killer breakfast,2.0,monster breakfast,1.0
