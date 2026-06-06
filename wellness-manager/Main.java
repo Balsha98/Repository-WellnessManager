@@ -1,5 +1,8 @@
 import javafx.application.Application;
 import javafx.stage.Stage;
+import core.models.Model;
+import core.views.View;
+import core.controllers.Controller;
 
 // Main for running the application.
 public class Main extends Application {
@@ -13,6 +16,6 @@ public class Main extends Application {
     public void start(Stage stage) {
         Model model = Model.getInstance();
         View view = new View();
-        Controller controller = new Controller(model, view);
+        new Controller(model, view);
     }
 }

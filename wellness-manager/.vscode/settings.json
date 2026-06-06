@@ -1,13 +1,13 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Users\\bakib\\GitHubProjects\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.base.jar",
-        "c:\\Users\\bakib\\GitHubProjects\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.controls.jar",
-        "c:\\Users\\bakib\\GitHubProjects\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.fxml.jar",
-        "c:\\Users\\bakib\\GitHubProjects\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.graphics.jar",
-        "c:\\Users\\bakib\\GitHubProjects\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.media.jar",
-        "c:\\Users\\bakib\\GitHubProjects\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.swing.jar",
-        "c:\\Users\\bakib\\GitHubProjects\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.web.jar",
-        "c:\\Users\\bakib\\GitHubProjects\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx-swt.jar"
+        "c:\\Users\\bakib\\GitHub\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.base.jar",
+        "c:\\Users\\bakib\\GitHub\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.controls.jar",
+        "c:\\Users\\bakib\\GitHub\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.fxml.jar",
+        "c:\\Users\\bakib\\GitHub\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.graphics.jar",
+        "c:\\Users\\bakib\\GitHub\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.media.jar",
+        "c:\\Users\\bakib\\GitHub\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.swing.jar",
+        "c:\\Users\\bakib\\GitHub\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx.web.jar",
+        "c:\\Users\\bakib\\GitHub\\Repository-WellnessManager\\javafx-sdk\\lib\\javafx-swt.jar"
     ]
 }

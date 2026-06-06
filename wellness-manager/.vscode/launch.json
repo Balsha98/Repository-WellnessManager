@@ -3,17 +3,11 @@
     "configurations": [
         {
             "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        },
-        {
-            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
-            "vmArgs": "--module-path \"C:/Users/bakib/GitHubProjects/Repository-WellnessManager/javafx-sdk/lib\" --add-modules javafx.controls",
-            "projectName": "wellness-manager_ca501a7a"
-        }
+            "vmArgs": "--module-path \"C:/Users/bakib/GitHub/Repository-WellnessManager/javafx-sdk/lib\" --add-modules javafx.controls",
+            "projectName": "wellness-manager_2d4c9a8c"
+        },
     ]
 }
